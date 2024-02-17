@@ -12,3 +12,4 @@
 /media/manmohan/D25CA17B5CA15ACD/.NET Practical/first/obj/Debug/net8.0/first.pdb
 /media/manmohan/D25CA17B5CA15ACD/.NET Practical/first/obj/Debug/net8.0/first.genruntimeconfig.cache
 /media/manmohan/D25CA17B5CA15ACD/.NET Practical/first/obj/Debug/net8.0/ref/first.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/first/obj/Debug/net8.0/first.sourcelink.json
