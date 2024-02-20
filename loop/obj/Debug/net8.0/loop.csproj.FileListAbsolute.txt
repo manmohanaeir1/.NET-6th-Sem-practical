@@ -1,0 +1,15 @@
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/bin/Debug/net8.0/loop
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/bin/Debug/net8.0/loop.deps.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/bin/Debug/net8.0/loop.runtimeconfig.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/bin/Debug/net8.0/loop.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/bin/Debug/net8.0/loop.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/loop.GeneratedMSBuildEditorConfig.editorconfig
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/loop.AssemblyInfoInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/loop.AssemblyInfo.cs
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/loop.csproj.CoreCompileInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/loop.sourcelink.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/loop.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/refint/loop.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/loop.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/loop.genruntimeconfig.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/loop/obj/Debug/net8.0/ref/loop.dll
