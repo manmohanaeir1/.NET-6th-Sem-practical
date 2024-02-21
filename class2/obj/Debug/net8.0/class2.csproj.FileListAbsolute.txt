@@ -1,0 +1,15 @@
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/class2.GeneratedMSBuildEditorConfig.editorconfig
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/class2.AssemblyInfoInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/class2.AssemblyInfo.cs
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/class2.csproj.CoreCompileInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/class2.sourcelink.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/bin/Debug/net8.0/class2
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/bin/Debug/net8.0/class2.deps.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/bin/Debug/net8.0/class2.runtimeconfig.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/bin/Debug/net8.0/class2.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/bin/Debug/net8.0/class2.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/class2.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/refint/class2.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/class2.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/class2.genruntimeconfig.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/class2/obj/Debug/net8.0/ref/class2.dll
