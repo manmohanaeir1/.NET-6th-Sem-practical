@@ -1,0 +1,15 @@
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/convert.GeneratedMSBuildEditorConfig.editorconfig
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/convert.AssemblyInfoInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/convert.AssemblyInfo.cs
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/convert.csproj.CoreCompileInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/convert.sourcelink.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/bin/Debug/net8.0/convert
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/bin/Debug/net8.0/convert.deps.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/bin/Debug/net8.0/convert.runtimeconfig.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/bin/Debug/net8.0/convert.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/bin/Debug/net8.0/convert.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/convert.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/refint/convert.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/convert.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/convert.genruntimeconfig.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/convert/obj/Debug/net8.0/ref/convert.dll
