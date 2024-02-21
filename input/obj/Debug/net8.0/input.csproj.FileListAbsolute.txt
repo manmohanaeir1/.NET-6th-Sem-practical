@@ -1,0 +1,15 @@
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/input.GeneratedMSBuildEditorConfig.editorconfig
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/input.AssemblyInfoInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/input.AssemblyInfo.cs
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/input.csproj.CoreCompileInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/input.sourcelink.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/bin/Debug/net8.0/input
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/bin/Debug/net8.0/input.deps.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/bin/Debug/net8.0/input.runtimeconfig.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/bin/Debug/net8.0/input.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/bin/Debug/net8.0/input.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/input.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/refint/input.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/input.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/input.genruntimeconfig.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/input/obj/Debug/net8.0/ref/input.dll
