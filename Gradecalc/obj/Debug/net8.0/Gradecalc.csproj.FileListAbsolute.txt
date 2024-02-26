@@ -1,0 +1,15 @@
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/Gradecalc.GeneratedMSBuildEditorConfig.editorconfig
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/Gradecalc.AssemblyInfoInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/Gradecalc.AssemblyInfo.cs
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/Gradecalc.csproj.CoreCompileInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/Gradecalc.sourcelink.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/bin/Debug/net8.0/Gradecalc
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/bin/Debug/net8.0/Gradecalc.deps.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/bin/Debug/net8.0/Gradecalc.runtimeconfig.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/bin/Debug/net8.0/Gradecalc.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/bin/Debug/net8.0/Gradecalc.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/Gradecalc.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/refint/Gradecalc.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/Gradecalc.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/Gradecalc.genruntimeconfig.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/Gradecalc/obj/Debug/net8.0/ref/Gradecalc.dll
