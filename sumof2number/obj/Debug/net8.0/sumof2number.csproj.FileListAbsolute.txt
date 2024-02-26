@@ -1,0 +1,15 @@
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/sumof2number.GeneratedMSBuildEditorConfig.editorconfig
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/sumof2number.AssemblyInfoInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/sumof2number.AssemblyInfo.cs
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/sumof2number.csproj.CoreCompileInputs.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/sumof2number.sourcelink.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/bin/Debug/net8.0/sumof2number
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/bin/Debug/net8.0/sumof2number.deps.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/bin/Debug/net8.0/sumof2number.runtimeconfig.json
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/bin/Debug/net8.0/sumof2number.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/bin/Debug/net8.0/sumof2number.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/sumof2number.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/refint/sumof2number.dll
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/sumof2number.pdb
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/sumof2number.genruntimeconfig.cache
+/media/manmohan/D25CA17B5CA15ACD/.NET Practical/sumof2number/obj/Debug/net8.0/ref/sumof2number.dll
